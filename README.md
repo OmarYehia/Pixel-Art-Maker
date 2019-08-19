@@ -1,6 +1,16 @@
-# Pixel-Art-Maker
-This is the second project in IPND from Udacity <br>
-It's a website makes u draw anything u want by determining the color and the grid area <br>
-Note: it was the hardest in the whole nanodegree :"( <br>
-Email: omaryahiatawfiek@gmail.com <br>
-Whatsapp: 00201142212938
+# Pixel Art Maker Project
+
+## Table of Contents
+
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+## Instructions
+
+To get started, open `designs.js` and start building out the app's functionality.
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
